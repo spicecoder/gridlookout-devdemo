@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pnrForm/gridlookout/static/css/main.e6c13ad2.css",
+    "main.js": "/pnrForm/gridlookout/static/js/main.f693b127.js",
+    "index.html": "/pnrForm/gridlookout/index.html",
+    "main.e6c13ad2.css.map": "/pnrForm/gridlookout/static/css/main.e6c13ad2.css.map",
+    "main.f693b127.js.map": "/pnrForm/gridlookout/static/js/main.f693b127.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f693b127.js"
+  ]
+}
