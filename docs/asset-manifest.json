@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gridlookout-devdemo/static/css/main.e6c13ad2.css",
+    "main.js": "/gridlookout-devdemo/static/js/main.f693b127.js",
+    "index.html": "/gridlookout-devdemo/index.html",
+    "main.e6c13ad2.css.map": "/gridlookout-devdemo/static/css/main.e6c13ad2.css.map",
+    "main.f693b127.js.map": "/gridlookout-devdemo/static/js/main.f693b127.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f693b127.js"
+  ]
+}
